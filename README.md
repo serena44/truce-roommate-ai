@@ -10,10 +10,10 @@ Roomi is an AI supported application designed to help students and roommates nag
 -Streamlit UI
 
 ## Required APIs
--Hugging Face / Google Gemini 2/5 Flash
--Streamlit 
--Python
--Hugging Face Spaces 
+-Hugging Face / Google Gemini 2/5 Flash - for AI feedback rewording
+-Streamlit -UI framework
+-Python - backend logic 
+-Hugging Face Spaces - deployment environment
 
 ## Issues
 -Requires weekly check-in from roommates for vibe score updates
