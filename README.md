@@ -1,7 +1,7 @@
 # Roomi- Shared Living Management App
 Roomi is an AI supported application designed to help students and roommates nagivate living off-campus by reducing conflict and improving communication and organization. 
 
-# The app provides
+### The app provides
 -Weekly chore schedule generation
 -An announcement board
 -A feedback board with Ai-powered rewording
@@ -20,4 +20,5 @@ Roomi is an AI supported application designed to help students and roommates nag
 -Feedback from AI may occasionally be generic or vauge 
 -Development in VS Code led to compilation/set up issues(app runs best in Hugging Face)
 
-
+## Video Documentation
+-App Demo: https://www.youtube.com/watch?v=rrj72LtArSY 
